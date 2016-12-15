@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="16"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="579865869934765"
+    token="-1769927585716569362"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="593" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="465" />
+    <task
+        name="verifier"
+        duration="55" />
+
+    <artifact
+        location="C:\Users\lenovo\Documents\Tugas sekolah\ITB\PRD\Tubes\BandungEmergency\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="579865869934765"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\lenovo\Documents\Tugas sekolah\ITB\PRD\Tubes\BandungEmergency\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
